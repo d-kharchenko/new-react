@@ -1,0 +1,23 @@
+.ourclients{
+    text-align: center;
+    background-color: #f3f3f3;
+    /*height: 500px;*/
+}
+.ourclients-cart__logo{
+    max-width: 100px;
+    border-radius: 50%;
+}
+.outclients__title{
+    font-size: 50px;
+}
+.outclients__text{
+    font-size: 20px;
+}
+.ourclients-wrap{
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+}
+.ourclients-cart{
+    width: 30%;
+}

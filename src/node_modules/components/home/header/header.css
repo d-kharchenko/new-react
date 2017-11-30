@@ -1,0 +1,19 @@
+.header-wrap{
+    background-image: url(/images/top-bg.png);
+    background-size: cover;
+    height: 500px;
+    background-position-x: 50%;
+    background-position-y: 50%;
+}
+.header-title__text{
+    font-size: 100px;
+}
+.logo{
+    display: block;
+    float: left;
+    padding-top: 10px;
+    padding-top: 10px;
+}
+.logo img{
+    max-width: 100px;
+}

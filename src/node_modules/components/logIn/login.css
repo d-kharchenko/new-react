@@ -1,0 +1,26 @@
+.log-in-wrap{
+    width: 500px;
+    float: right;
+    padding-top: 35px;
+}
+.log-in-form {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.form-group{
+    font-size: 12px;
+    margin-right: 20px;
+}
+.form-label{
+    margin-bottom: 0px;
+}
+.form-control{
+    width: 150px;
+}
+form .btn{
+    font-size: 12px;
+}
+form .btn-success{
+    margin-right: 10px;
+}

@@ -1,0 +1,19 @@
+.ourcompany{
+    text-align: center;
+}
+.ourcompany__title{
+    font-size: 55px;
+}
+.ourcompany__text{
+    font-size: 20px;
+    width: 700px;
+    margin: 0 auto;
+}
+.ourcompany-about{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+}
+.ourcompany-block {
+    width: 30%;
+}
